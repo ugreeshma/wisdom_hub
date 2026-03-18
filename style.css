@@ -60,7 +60,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 90px);
+    height: calc(50vh - 20px);
     padding: 40px;
 }
 
