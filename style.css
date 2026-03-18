@@ -5,6 +5,22 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  margin: 0;
+}
+
+.hero-bg {
+  width: 100%;
+  min-height: 100vh;
+}
+.hero-bg {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #d9a7c7, #ff00cc);
+  display: flex;
+  align-items: center;
+}
+
 /* Navbar */
 .navbar {
     display: flex;
