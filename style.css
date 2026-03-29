@@ -6,11 +6,11 @@
 }
 
 .hero-bg {
-  width: 60%;
+  width: 100%;
   min-height: 60vh;
 }
 .hero-bg {
-  width: 60%;
+  width: 100%;
   min-height: 60vh;
   background: linear-gradient(135deg, #d9a7c7, #ff00cc);
   display: flex;
