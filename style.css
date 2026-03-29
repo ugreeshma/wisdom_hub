@@ -105,7 +105,7 @@ body{
     backdrop-filter: blur(6px);
 }
 .hero-bg {
-    min-height: 50vh;
+    min-height: 35vh;
     display: flex;
     align-items: center;
     padding: 80px;
