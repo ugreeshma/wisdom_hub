@@ -4,16 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 } 
-.hero {
-  height: 100vh;
-  display: flex;
-  align-items: center;  /* vertical center */
-  padding-left: 40px;
-}
 
-.hero-content {
-  max-width: 350px;
-}
 /* Navbar */
 .navbar {
     display: flex;
